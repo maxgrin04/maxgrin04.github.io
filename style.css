@@ -1,0 +1,31 @@
+body {
+    font-family: sans-serif;
+    line-height: 1.5;
+    background-color: rgb(211, 211, 211);
+    color: darkgrey;
+    width: 980px;
+    margin: 0 auto;
+}
+
+
+
+h1 {
+    text-align: center;
+    font-size: 38px;
+    margin-bottom: 0;
+}
+
+
+
+main > h2 {
+    text-align: center;
+    font-size: 27px;
+}
+
+
+
+section > h2 {
+    text-align: left;
+    text-decoration: underline;
+    font-size: 18px;
+}
